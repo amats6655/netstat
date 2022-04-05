@@ -4,7 +4,7 @@ from datetime import datetime
 
 date_now = str(datetime.today().strftime("%d%m%Y_%H%M%S"))
 ping_ip1 = "1.1.1.1"
-ping_ip2 = "10.21.50.10"
+ping_ip2 = "8.8.8.8"
 oc = system()
 
 
